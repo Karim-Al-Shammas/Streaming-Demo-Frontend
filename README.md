@@ -1,7 +1,9 @@
-####################### NB:
-THE ONLY PART WORTH LOOKING AT IS app.vue
-THE REST IS JUST FROM THE INITIAL TEMPLATE
-#######################
+#NB:
+
+#THE ONLY PART WORTH LOOKING AT IS app.vue
+
+#THE REST IS JUST FROM THE INITIAL TEMPLATE
+
 
 
 # Nuxt 3 Minimal Starter
